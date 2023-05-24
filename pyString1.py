@@ -40,3 +40,7 @@ sss2 = "String"
 print("sss2 is String now:"+sss2)
 sss2 = 123
 print("sss2 is now data:",sss2)
+
+print(f"I am {sss2}")
+
+
